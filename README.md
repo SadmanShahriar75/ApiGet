@@ -1,6 +1,12 @@
 # apiget
 
 A new Flutter project.
+//output
+
+https://github.com/SadmanShahriar75/ApiGet/assets/130807436/e0d0fe95-fea9-4d22-a2c1-f284ab86b57c
+
+
+
 
 ## Getting Started
 
